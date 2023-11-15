@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillfactory unit n1", "Ski
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillfactory", "Skillfactory\Skillfactory.csproj", "{2F63D9D6-9BE9-43AF-8844-93912EE55303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skillfactory мат.операции", "Skillfactory мат.операции\Skillfactory мат.операции.csproj", "{BA908A90-A45C-44C9-9C97-719F2FDF2885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillfactory мат.операции", "Skillfactory мат.операции\Skillfactory мат.операции.csproj", "{BA908A90-A45C-44C9-9C97-719F2FDF2885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Преобразования , обработка ошибок", "Преобразования , обработка ошибок\Преобразования , обработка ошибок.csproj", "{BBCF5219-59F7-47D4-A992-B67F5BD55E94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BA908A90-A45C-44C9-9C97-719F2FDF2885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA908A90-A45C-44C9-9C97-719F2FDF2885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA908A90-A45C-44C9-9C97-719F2FDF2885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCF5219-59F7-47D4-A992-B67F5BD55E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCF5219-59F7-47D4-A992-B67F5BD55E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCF5219-59F7-47D4-A992-B67F5BD55E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCF5219-59F7-47D4-A992-B67F5BD55E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

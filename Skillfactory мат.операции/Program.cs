@@ -6,11 +6,16 @@ namespace Lesson
     {
         public static void Main(string[] args)
         {
-            double a, b;
+            double a;
             a = 5;
-            b = 2;
-            double c = a / b;
-            Console.WriteLine(c);
+
+            int k, b;
+            k = -5;
+                 b = 5;
+            b -= k;
+            Console.WriteLine(b);
+
+
 
         }
     }
